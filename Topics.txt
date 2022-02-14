@@ -1,1 +1,43 @@
-Basic Topics
+conditions and branching -
+        using ternary operators
+        for, forEach, for..of and for..in
+        ?? 
+
+hoisting -
+        var, let and const
+
+function and arrow functions
+closure
+
+objects basics 
+object methods -
+        keys(), values(), entries(), freeze(), seal(), etc
+
+array basics
+array methods -
+        map(), filter(), reduce(), push(), pop(), etc
+
+
+destructuring
+rest and spread operators
+flags and descriptors
+getters and setters
+
+basics - 
+    Map and Set, Prototype, class and inheritance, garbage collection
+
+error handling
+callback and callback hell
+promise
+async and await
+generators
+currying
+DOM and DOM methods
+Events, bubbling and capturing, event delegation
+API handing using fetch and axios
+HTTP and network protocols, internet layer working/ javascript engine working, etc
+cookies
+cache
+session and local storage
+shadow DOM
+RegEx
