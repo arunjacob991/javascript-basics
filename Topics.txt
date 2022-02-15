@@ -2,7 +2,7 @@ conditions and branching -
         using ternary operators
         for, forEach, for..of and for..in
         ?? 
-
+ 
 hoisting -
         var, let and const
 
@@ -38,6 +38,6 @@ API handing using fetch and axios
 HTTP and network protocols, internet layer working/ javascript engine working, etc
 cookies
 cache
-session and local storage
+session and local storage, cookies
 shadow DOM
 RegEx
