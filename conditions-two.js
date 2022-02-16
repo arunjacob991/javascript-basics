@@ -15,3 +15,15 @@ for(let i = 0; i < 5; i++ ){
 // }
 
 // above is infinite loop using for...
+
+let num = 5;
+
+let message = (num <= 5 ? console.log("around five") : console.log("more than five"))
+
+// console.log(message);
+
+let first = null;
+let second = "second";
+let third = null;
+
+console.log(first ?? second ?? third ?? "nothing");
