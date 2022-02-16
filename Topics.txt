@@ -1,9 +1,9 @@
-conditions and branching -
+*conditions and branching -
         using ternary operators
-        for, forEach, for..of and for..in
-        ?? 
+      **/for, forEach, for..of and for..in/** 
+        ??, ?.
 
-NaN, undefined, null, "", "=", "==", "===", booleans, etc...
+*NaN, undefined, null, "", "=", "==", "===", booleans, etc...
 
 hoisting -
         var, let and const
