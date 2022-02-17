@@ -28,6 +28,7 @@ switch(number){
         console.log(message);
         break;
     }
+    
     case "twenty": {
         let message = "the second number"
         console.log(message);

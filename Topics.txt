@@ -12,14 +12,16 @@
 *function and arrow functions
 closure
 
-objects basics 
-object methods -
-        keys(), values(), entries(), freeze(), seal(), etc
+*objects basics 
+*object methods -
+        keys(), values(), entries(), freeze(), seal(), create(), assign()
 
 array basics
 array methods -
         map(), filter(), reduce(), push(), pop(), etc
 
+
+*string methods
 
 destructuring
 rest and spread operators
@@ -30,6 +32,7 @@ basics -
     Map and Set, Prototype, class and inheritance, garbage collection
 
 this keyword
+call, apply, bind
 error handling
 callback and callback hell
 promise
