@@ -5,11 +5,11 @@
 
 *NaN, undefined, null, "", "=", "==", "===", booleans, etc...
 
-hoisting -
+*hoisting -
         var, let and const
 
 
-function and arrow functions
+*function and arrow functions
 closure
 
 objects basics 
@@ -29,6 +29,7 @@ getters and setters
 basics - 
     Map and Set, Prototype, class and inheritance, garbage collection
 
+this keyword
 error handling
 callback and callback hell
 promise
@@ -41,6 +42,6 @@ API handing using fetch and axios
 HTTP and network protocols, internet layer working/ javascript engine working, etc
 cookies
 cache
-session and local storage, cookies
-shadow DOM
+session and local storage
+shadow DOM 
 RegEx
