@@ -1,6 +1,6 @@
 *conditions and branching -
         using ternary operators
-        for, forEach, for..of and for..in 
+        for, forEach, for..in and for..of
         ??, ?.
 
 *NaN, undefined, null, "", "=", "==", "===", booleans, etc...
@@ -10,7 +10,7 @@
 
 
 *function and arrow functions
-closure
+*closure
 
 *objects basics 
 *object methods -
@@ -31,20 +31,21 @@ closure
 *basics - 
     Map and Set, Prototype, class and inheritance, garbage collection
 
-this keyword
-call, apply, bind
-error handling
+*this keyword
+*call, apply, bind
+*error handling
+*generators
+*currying
 callback and callback hell
 promise
 async and await
-generators
-currying
 DOM and DOM methods
 Events, bubbling and capturing, event delegation
-API handing using fetch and axios
+API handing using fetch and axios, JSON
 HTTP and network protocols, internet working/ javascript engine working, etc
 cookies
 cache
 session and local storage
 shadow DOM 
 RegEx
+
