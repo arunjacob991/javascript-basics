@@ -1,6 +1,6 @@
 *conditions and branching -
         using ternary operators
-      **/for, forEach, for..of and for..in/** 
+        for, forEach, for..of and for..in 
         ??, ?.
 
 *NaN, undefined, null, "", "=", "==", "===", booleans, etc...
@@ -16,19 +16,19 @@ closure
 *object methods -
         keys(), values(), entries(), freeze(), seal(), create(), assign()
 
-array basics
-array methods -
+*array basics
+*array methods -
         map(), filter(), reduce(), push(), pop(), etc
 
 
 *string methods
 
-destructuring
-rest and spread operators
-flags and descriptors
-getters and setters
+*destructuring
+*rest and spread operators
+*flags and descriptors
+*getters and setters
 
-basics - 
+*basics - 
     Map and Set, Prototype, class and inheritance, garbage collection
 
 this keyword
@@ -42,7 +42,7 @@ currying
 DOM and DOM methods
 Events, bubbling and capturing, event delegation
 API handing using fetch and axios
-HTTP and network protocols, internet layer working/ javascript engine working, etc
+HTTP and network protocols, internet working/ javascript engine working, etc
 cookies
 cache
 session and local storage
