@@ -1,49 +1,49 @@
-*conditions and branching -
+conditions and branching -
         using ternary operators
         for, forEach, for..in and for..of
         ??, ?.
 
-*NaN, undefined, null, "", "=", "==", "===", booleans, etc...
+NaN, undefined, null, "", "=", "==", "===", booleans, etc...
 
-*hoisting -
+hoisting -
         var, let and const
 
 
-*function and arrow functions
-*closure
+function and arrow functions
+closure
 
-*objects basics 
-*object methods -
+objects basics 
+object methods -
         keys(), values(), entries(), freeze(), seal(), create(), assign()
 
-*array basics
-*array methods -
+array basics
+array methods -
         map(), filter(), reduce(), push(), pop(), etc
 
 
-*string methods
+string methods
 
-*destructuring
-*rest and spread operators
-*flags and descriptors
-*getters and setters
+destructuring
+rest and spread operators
+flags and descriptors
+getters and setters
 
-*basics - 
+basics - 
     Map and Set, Prototype, class and inheritance, garbage collection
 
-*this keyword
-*call, apply, bind
-*error handling
-*generators
-*currying
+this keyword
+call, apply, bind
+error handling
+generators
+currying
 
-*DOM and DOM methods
-*Events, bubbling and capturing, event delegation
-*HTTP and network protocols, internet working/ javascript engine working, etc
-*cache/memoization
-*cookies, session and local storage
-*shadow DOM 
-*RegEx
+DOM and DOM methods
+Events, bubbling and capturing, event delegation
+HTTP and network protocols, internet working/ javascript engine working, etc
+cache/memoization
+cookies, session and local storage
+shadow DOM 
+RegEx
 
 callback and callback hell
 promise
