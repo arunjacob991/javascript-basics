@@ -36,16 +36,18 @@
 *error handling
 *generators
 *currying
+
+*DOM and DOM methods
+*Events, bubbling and capturing, event delegation
+*HTTP and network protocols, internet working/ javascript engine working, etc
+*cache/memoization
+*cookies, session and local storage
+*shadow DOM 
+*RegEx
+
 callback and callback hell
 promise
 async and await
-DOM and DOM methods
-Events, bubbling and capturing, event delegation
 API handing using fetch and axios, JSON
-HTTP and network protocols, internet working/ javascript engine working, etc
-cookies
-cache
-session and local storage
-shadow DOM 
-RegEx
 
+ 
